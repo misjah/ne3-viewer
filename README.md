@@ -16,10 +16,10 @@ binary on Windows or Linux.
 
 ---
 <p align="center">
-  <img src="docs/screenshot.jpg" alt="NE3 Viewer screenshot" width="600"/>
+  <img src="[docs/screenshot.jpg](https://github.com/misjah/ne3-viewer/blob/main/screenshot.jpg)" alt="NE3 Viewer screenshot" width="600"/>
 </p>
 <p align="center">
-  <img src="docs/screenshot1.jpg" alt="NE3 Viewer screenshot" width="600"/>
+  <img src="[docs/screenshot1.jpg](https://github.com/misjah/ne3-viewer/blob/main/screenshot.jpg)" alt="NE3 Viewer screenshot" width="600"/>
 </p>
 ---
 
