@@ -41,7 +41,7 @@ Grab the latest binaries from the [**Releases** page](https://github.com/misjah/
 
 ---
 
-## 🚀 Quick start
+## Quick start
 
 ### Windows
 
@@ -81,7 +81,7 @@ Pictures scale to fit the window with dark-gray bars (also maximized / fullscree
 
 ---
 
-## 🔧 Options
+## Options
 
 ```
 --ip 192.168.1.1      Skip discovery, connect straight to this address
@@ -94,7 +94,7 @@ Pictures scale to fit the window with dark-gray bars (also maximized / fullscree
 
 ---
 
-## 🛠 Troubleshooting
+## Troubleshooting
 
 * **No video received** — network problem, not a display problem. Run `./ne3-viewer --check` first.
 * Only one device can talk to the endoscope at a time — close the phone app.
@@ -103,7 +103,7 @@ Pictures scale to fit the window with dark-gray bars (also maximized / fullscree
 
 ---
 
-## 📄 License
+## License
 
 MIT. See [LICENSE](LICENSE) for details. The underlying NE3-Scope code is WTFPL.
 
