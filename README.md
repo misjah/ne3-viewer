@@ -28,6 +28,9 @@ Originally intended to be viewed by android app for ear cleaning but in my case 
 <p align="center">
   <img src="screenshot1.jpg" alt="NE3 Viewer screenshot1" width="600"/>
 </p>
+<p align="center">
+  <img src="ne3.gif" alt="NE3 Viewer demo" width="600"/>
+</p>
 ---
 
 ## 📦 Download
