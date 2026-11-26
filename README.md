@@ -15,6 +15,13 @@ binary on Windows or Linux.
 > see "Building from source" if you want to rebuild it yourself.
 
 ---
+<p align="center">
+  <img src="docs/screenshot.jpg" alt="NE3 Viewer screenshot" width="600"/>
+</p>
+<p align="center">
+  <img src="docs/screenshot1.jpg" alt="NE3 Viewer screenshot" width="600"/>
+</p>
+---
 
 ## 📦 Download
 
