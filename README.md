@@ -16,6 +16,12 @@ binary on Windows or Linux.
 
 ---
 <p align="center">
+  <img src="screenshot2.png" alt="NE3 Viewer screenshot" width="600"/>
+</p>
+<p align="center">
+  <img src="screenshot3.png" alt="NE3 Viewer screenshot" width="600"/>
+</p>
+<p align="center">
   <img src="screenshot.jpg" alt="NE3 Viewer screenshot" width="600"/>
 </p>
 <p align="center">
