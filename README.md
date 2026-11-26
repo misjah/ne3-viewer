@@ -10,6 +10,7 @@ mini endoscope viewer NE3/NE7 earpick wireless endoscope/otoscope
 Single-file cheap aliexpress endoscope viewer built from [haxko/NE3-Scope](https://github.com/haxko/NE3-Scope)
 (`client2.py` + `ne7.py`, WTFPL). No installation required — just run the prebuilt
 binary on Windows or Linux.
+Originally intended for ear cleaning but in my case useful for tiny prints and electronics.
 
 > **Note:** This repo contains the compiled binaries. Source code is kept minimal;
 > see "Building from source" if you want to rebuild it yourself.
@@ -108,7 +109,7 @@ MIT. See [LICENSE](LICENSE) for details. The underlying NE3-Scope code is WTFPL.
 
 ---
 
-## 🙏 Credits
+## Credits
 
 * [haxko/NE3-Scope](https://github.com/haxko/NE3-Scope) — original protocol reverse-engineering and Python viewer.
 * Icons / splash art — *(add your own screenshot/GIF here to make the repo pop)*.
