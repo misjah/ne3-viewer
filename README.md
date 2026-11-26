@@ -7,7 +7,7 @@ mini endoscope viewer NE3/NE7 earpick wireless endoscope/otoscope
 [![Windows binary](https://img.shields.io/badge/Windows-ne3--viewer.exe-blue.svg)](https://github.com/misjah/ne3viewer/releases/latest)
 [![Linux binary](https://img.shields.io/badge/Linux-ne3--viewer-blue.svg)](https://github.com/misjah/ne3viewer/releases/latest)
 
-Single-file endoscope viewer built from [haxko/NE3-Scope](https://github.com/haxko/NE3-Scope)
+Single-file cheap aliexpress endoscope viewer built from [haxko/NE3-Scope](https://github.com/haxko/NE3-Scope)
 (`client2.py` + `ne7.py`, WTFPL). No installation required — just run the prebuilt
 binary on Windows or Linux.
 
