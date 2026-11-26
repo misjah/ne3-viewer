@@ -17,6 +17,9 @@ Originally intended to be viewed by android app for ear cleaning but in my case 
 
 ---
 <p align="center">
+  <img src="endo.jpg" alt="NE3 Viewer screenshot" width="600"/>
+</p>
+<p align="center">
   <img src="screenshot2.png" alt="NE3 Viewer screenshot" width="600"/>
 </p>
 <p align="center">
