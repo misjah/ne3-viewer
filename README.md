@@ -100,6 +100,4 @@ MIT. See [LICENSE](LICENSE) for details. The underlying NE3-Scope code is WTFPL.
 * [haxko/NE3-Scope](https://github.com/haxko/NE3-Scope) — original protocol reverse-engineering and Python viewer.
 * Icons / splash art — *(add your own screenshot/GIF here to make the repo pop)*.
 
----
 
-**Made with ❤️ for the NE3 / NE7 endoscope community.**
