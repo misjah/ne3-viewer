@@ -36,14 +36,15 @@ Originally intended to be viewed by android app for ear cleaning but in my case 
 </p>
 ---
 
-## 📦 Download
+## Download
 
 Grab the latest binaries from the [**Releases** page](https://github.com/misjah/ne3viewer/releases/latest):
 
 | Platform | File |
-|----------|------|
-| Windows | `ne3-viewer.exe` |
-| Linux   | `ne3-viewer` (single executable) |
+|-----------|------|
+| Windows   | `ne3-viewer.exe` |
+| Linux     | `ne3-viewer` (single executable) |
+| ARM Linux | `ne3-viewer-arm64` |
 
 ---
 
